@@ -1,0 +1,67 @@
+185.61.94.65:43110|Russia|Moscow|Moscow
+88.213.214.254:4145|Bulgaria|Shumen|Yasenkovo
+173.195.27.140:10091|United States|Oklahoma|Lawton
+109.122.81.9:57553|Serbia|Kolubara|Brgule
+103.212.93.209:45639|India|Maharashtra|Thane
+45.122.45.49:5678|India|National Capital Territory of Delhi|Delhi
+31.206.38.55:37630|Turkey|Istanbul|Istanbul
+1.179.173.114:4153|Thailand|Surin|Ban Rae
+112.78.170.251:5678|Indonesia|Central Java|Rejanegara
+124.158.186.34:5678|Indonesia|Central Java|Semarang
+103.12.246.41:4145|India|Haryana|Gurgaon
+103.87.212.15:4153|Bangladesh|Dhaka Division|Dhaka
+58.147.170.117:10801|Bangladesh|Dhaka Division|Dhaka
+103.36.35.251:5678|Indonesia|Jakarta|Jakarta
+103.95.97.53:4153|Bangladesh|Dhaka Division|Dhaka
+170.246.85.38:37163|Ecuador|Provincia del Azuay|Cuenca
+103.130.113.245:5678|Bangladesh|Dhaka Division|Dhaka
+202.153.91.165:1080|China|Shanghai|Shanghai
+200.220.202.1:4145|Brazil|Rio de Janeiro|Rio de Janeiro
+103.169.130.27:5678|Indonesia|East Java|Pasuruan
+113.161.212.130:1080|Vietnam|Hanoi|Hanoi
+170.79.182.82:11337|Argentina|Mendoza|Palmira
+89.161.90.225:5678|Poland|Podlasie|Siemiatycze
+50.47.75.220:5678|United States|Washington|Kirkland
+195.219.98.27:5678|Spain|Basque Country|Abadino
+45.122.45.1:5678|India|National Capital Territory of Delhi|Delhi
+103.105.40.97:4145|India|Gujarat|Udvada
+45.236.185.1:4153|Chile|Region de Arica y Parinacota|Arica
+45.125.222.97:47239|Bangladesh|Rajshahi Division|Pār Naogaon
+117.58.245.66:61393|Bangladesh|Dhaka Division|Dhaka
+103.111.29.130:4153|Indonesia|Central Kalimantan|Palangkaraya
+202.59.173.204:1080|Indonesia|Jakarta|Jakarta
+103.103.143.209:5678|India|Punjab|Sunam
+114.5.116.81:5678|Indonesia|Jakarta|Jakarta
+187.87.198.250:3629|Brazil|Bahia|Madre de Deus
+203.194.21.241:4153|Australia|Victoria|Melbourne
+155.133.83.161:58351|Poland|Kujawsko-Pomorskie|Kamien Krajenski
+89.237.35.10:51549|Russia|Orenburg Oblast|Novotroitsk
+88.255.185.234:1082|Turkey|Kayseri|Kayseri
+216.215.125.178:48324|United States|Texas|Houston
+185.171.55.218:4153|Iran|Tehran|Tehran
+91.221.240.20:1080|Iran|Tehran|Tehran
+115.75.189.99:4153|Vietnam|Tinh Ba Ria-Vung Tau|Vũng Tàu
+103.60.187.1:52195|India|Uttar Pradesh|Noida
+138.59.177.117:5678|Honduras|Departamento de Cortes|San Pedro Sula
+113.53.247.221:4153|Thailand|Si Sa Ket|Khun Han
+45.175.179.4:4145|Brazil|Goias|Goiânia
+103.210.29.201:31433|India|Uttar Pradesh|Kanpur
+129.205.246.105:5678|Botswana|Gaborone|Gaborone
+117.141.96.35:4145|China|Guangxi|Lilancun
+181.15.154.156:52033|Argentina|Entre Rios|San Salvador
+54.39.87.232:39721|Canada|Quebec|Montreal
+87.249.212.26:4145|Russia|Chelyabinsk Oblast|Chelyabinsk
+50.47.75.212:5678|United States|Washington|Kirkland
+103.8.115.27:48644|Pakistan|Punjab|Lahore
+103.115.255.161:36331|Bangladesh|Dhaka Division|Savar Upazila
+45.116.114.29:5678|India|Tamil Nadu|Salem
+115.75.160.196:5678|Vietnam|Tinh Kien Giang|Phu Quoc
+170.246.85.107:37163|Ecuador|Provincia del Azuay|Cuenca
+1.179.130.201:4153|Thailand|Bangkok|Khwaeng Thung Song Hong
+103.140.205.133:1080|Bangladesh|Chittagong|Chittagong
+117.202.20.68:1088|India|Maharashtra|Nagpur
+197.136.148.10:5678|Kenya|Nairobi Province|Nairobi
+131.0.87.225:52017|Brazil|Sao Paulo|Ourinhos
+200.0.247.85:4153|Argentina|Buenos Aires F.D.|Retiro
+192.141.232.12:33998|Brazil|Federal District|Brasília
+217.117.142.25:3629|Poland|Lesser Poland|Tarnów

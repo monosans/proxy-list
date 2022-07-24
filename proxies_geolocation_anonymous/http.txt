@@ -1,0 +1,75 @@
+154.83.29.203:999|Venezuela|Barinas|Barinas
+154.83.29.206:999|Venezuela|Barinas|Barinas
+154.83.29.201:999|Venezuela|Barinas|Barinas
+221.178.239.200:7302|?|?|?
+154.83.29.204:999|Venezuela|Barinas|Barinas
+154.83.29.200:999|Venezuela|Barinas|Barinas
+204.199.174.69:999|Peru|Arequipa|Arequipa
+204.199.174.67:999|Peru|Arequipa|Arequipa
+201.150.116.49:999|Mexico|Hidalgo|Atitalaquia
+102.68.128.214:8080|Libya|Tripoli|Tripoli
+158.69.27.94:9300|United States|New York|Brooklyn
+80.89.198.229:80|?|?|?
+190.90.8.74:8080|Colombia|Departamento de Caldas|Manizales
+103.153.232.241:8080|Nepal|Lumbini Province|Lumbini
+175.111.129.155:8080|India|Rajasthan|Jaipur
+45.169.170.1:3128|Argentina|La Pampa|Santa Rosa
+165.16.113.98:8080|Libya|Tripoli|Tripoli
+193.123.104.244:3128|Brazil|Sao Paulo|Vinhedo
+5.167.141.239:3128|Russia|Tula Oblast|Tula
+103.114.98.217:6000|Bangladesh|Chittagong|Lakshmipur
+157.100.53.102:999|Ecuador|Provincia de El Oro|Machala
+190.94.199.14:999|Venezuela|Miranda|Caracas
+190.85.141.170:9090|Colombia|Departamento de Santander|Bucaramanga
+23.138.80.49:999|Puerto Rico|Aguadilla|Aguadilla Barrio-Pueblo
+103.175.46.34:3125|Indonesia|West Java|Sumber
+45.179.200.113:999|Colombia|Departamento de Caldas|Manizales
+181.225.54.3:999|Venezuela|Carabobo|Valencia
+165.16.30.161:8080|Libya|Al Butnan|Tobruk
+103.106.193.117:7532|India|Uttar Pradesh|Ghaziabad
+185.190.38.150:8080|Serbia|Central Serbia|Belgrade
+36.95.53.227:8080|Indonesia|Jakarta|Jakarta
+103.215.177.212:80|Indonesia|Jakarta|Jakarta
+200.26.190.74:999|United States|New York|New York
+88.255.185.254:8080|Turkey|Hatay|İskenderun
+202.62.67.209:53281|India|Andhra Pradesh|Pileru
+181.49.217.254:8080|Colombia|Departamento del Caqueta|La Montanita
+103.166.158.6:3128|Indonesia|West Java|Sumurbandung
+175.196.233.106:8080|South Korea|Gyeonggi-do|Anyang-si
+171.6.148.44:8080|Thailand|Kalasin|Kalasin
+170.80.202.237:999|Dominican Republic|Provincia de Santiago|Santiago de los Caballeros
+190.71.27.178:999|Colombia|Antioquia|Medellín
+45.189.113.63:999|Ecuador|Provincia del Guayas|Milagro
+103.151.246.14:10001|Indonesia|South Sulawesi|Makassar
+103.76.151.30:8181|Indonesia|West Java|Bogor
+115.124.85.20:8080|Indonesia|West Java|Bekasi
+45.156.31.27:9090|Turkey|Istanbul|Istanbul
+45.190.79.176:999|Mexico|Jalisco|Ixtlahuacan del Rio
+91.221.240.254:1515|Iran|Tehran|Tehran
+14.20.235.221:808|China|Guangdong|Zhongshan
+201.197.202.244:8080|Costa Rica|Provincia de San Jose|San José
+61.8.77.3:8088|Indonesia|Jakarta|Jakarta
+185.32.6.129:8090|Poland|West Pomerania|Mieszkowice
+201.218.158.79:999|Peru|Lima|Lima
+45.64.10.25:8080|India|Uttar Pradesh|Noida
+167.172.6.161:443|Singapore|South West|Singapore
+64.210.67.19:999|Venezuela|Distrito Federal|Caracas
+80.28.102.26:8080|Spain|Catalonia|Alcoletge
+103.155.198.64:8080|Indonesia|West Java|Karawang
+205.207.101.177:8282|United States|Maryland|Church Hill
+103.73.74.22:2021|Indonesia|West Java|Karawang
+45.167.23.30:999|Argentina|Cordoba|Cruz del Eje
+128.201.119.251:999|Chile|Santiago Metropolitan|Santiago
+102.38.5.161:8080|Libya|Tripoli|Tripoli
+178.172.225.49:3128|Belarus|Minsk City|Minsk
+122.102.118.82:8080|Iraq|Baghdad|Baghdad
+103.152.232.14:8080|Indonesia|West Java|Subang
+45.189.254.26:999|Mexico|Veracruz|Alvarado
+181.215.170.51:999|United States|New York|New York
+190.93.179.125:8080|Brazil|Parana|Foz do Iguaçu
+201.150.117.97:999|Mexico|Hidalgo|Huichapan
+45.184.103.81:999|Venezuela|Carabobo|Valencia
+103.168.44.113:8080|Indonesia|Central Java|Tegal
+45.225.123.92:45005|Brazil|Bahia|Cicero Dantas
+27.147.193.82:8080|Bangladesh|Khulna Division|Chuadanga
+114.5.199.203:8080|Indonesia|West Java|Bandung
