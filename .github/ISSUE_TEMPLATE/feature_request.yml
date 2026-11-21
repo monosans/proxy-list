@@ -1,0 +1,46 @@
+name: ✨ Feature request
+description: Suggest a new feature or an improvement to proxy-list.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        This tracker is for the lists. New checks and output fields belong
+        in
+        [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker/issues/new/choose).
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before you start
+      options:
+        - label: >-
+            I searched the [existing
+            issues](https://github.com/monosans/proxy-list/issues?q=is%3Aissue)
+            and found nothing about this.
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: "What are you trying to do, and what gets in the way?"
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: >-
+        What should change? Be specific about the behavior you expect.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example
+      description: How it would look in use.
+      render: text
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: Workarounds or other approaches you considered.

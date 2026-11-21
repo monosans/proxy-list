@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 README
+    url: https://github.com/monosans/proxy-list#readme
+    about: >-
+      File formats, the JSON fields and how to use the lists safely.
+  - name: 🧩 Problem with proxy-scraper-checker
+    url: >-
+      https://github.com/monosans/proxy-scraper-checker/issues/new/choose
+    about: Problems with running the tool belong in its own tracker.
+  - name: 🔒 Report a security vulnerability
+    url: >-
+      https://github.com/monosans/proxy-list/security/advisories/new
+    about: Report it privately instead of opening a public issue.

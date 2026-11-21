@@ -1,0 +1,70 @@
+name: 🐛 Bug report
+description: >-
+  Report a list that is stale, empty, malformed or differs from the README.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Single proxies going offline is expected: see [Read this before
+        using
+        them](https://github.com/monosans/proxy-list#read-this-before-using-them).
+        The lists are re-checked every hour, so download them again before
+        reporting.
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before you start
+      options:
+        - label: >-
+            I searched the [existing
+            issues](https://github.com/monosans/proxy-list/issues?q=is%3Aissue)
+            and found nothing about this.
+          required: true
+        - label: The problem is in the latest update of the list.
+          required: true
+  - type: dropdown
+    id: file
+    attributes:
+      label: File
+      options:
+        - proxies/all.txt
+        - proxies/http.txt
+        - proxies/socks4.txt
+        - proxies/socks5.txt
+        - proxies.json
+        - proxies_pretty.json
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of problem
+      options:
+        - Not updated
+        - Empty or truncated
+        - Malformed entries
+        - Wrong metadata
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "What happened?"
+      description: What you did, what you expected and what you got instead.
+    validations:
+      required: true
+  - type: textarea
+    id: sample
+    attributes:
+      label: Sample
+      description: The lines that show the problem.
+      render: text
+  - type: input
+    id: update
+    attributes:
+      label: List update
+      description: The commit message of the list you looked at, with its time.
+      placeholder: 853 http, 144 socks4, 492 socks5
