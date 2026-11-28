@@ -1,0 +1,58 @@
+name: 🌐 Proxy source
+description: Suggest a public source of proxies for the lists.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        The sources are the `urls` in the default
+        [`config.toml`](https://github.com/monosans/proxy-scraper-checker/blob/main/config.toml)
+        of proxy-scraper-checker, so you can also open a pull request there.
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before you start
+      options:
+        - label: >-
+            I searched the [existing
+            issues](https://github.com/monosans/proxy-list/issues?q=is%3Aissue)
+            and found nothing about this.
+          required: true
+        - label: >-
+            The URL is not in
+            [`config.toml`](https://github.com/monosans/proxy-scraper-checker/blob/main/config.toml)
+            yet.
+          required: true
+        - label: >-
+            The URL downloads the proxies directly, without signing in or an
+            API key.
+          required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The address of the list itself, not of a landing page.
+    validations:
+      required: true
+  - type: dropdown
+    id: protocols
+    attributes:
+      label: Protocols
+      description: What the source lists.
+      options:
+        - HTTP
+        - SOCKS4
+        - SOCKS5
+      multiple: true
+    validations:
+      required: true
+  - type: input
+    id: frequency
+    attributes:
+      label: Update frequency
+      description: How often the source changes, if you know.
+      placeholder: Every hour
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
